@@ -1,0 +1,31 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# macOS
+.DS_Store
+
+# H2 Database
+data/
+*.mv.db
+*.trace.db
+*.lock.db
+
+# Logs
+*.log
+logs/
+
+# Environment / Local Config
+.env
+.env.*
+application-local.properties
+application-local.yml
+
+# Temporary files
+*.swp
+*.swo
