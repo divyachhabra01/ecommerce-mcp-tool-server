@@ -513,20 +513,6 @@ Natural-language response
 
 The MCP layer therefore acts as an **AI-callable interface over the existing e-commerce backend**.
 
-## 🔮 Future Improvements
-
-- Add a chat-facing client using Spring AI `ChatClient`
-- Connect the MCP server to additional MCP-compatible AI clients
-- Externalize the H2 datasource path using an environment variable
-- Add authentication and authorization for customer actions
-- Add streaming responses
-- Add multi-turn conversation memory
-- Add advanced product recommendations
-- Add payment and shipping workflows
-- Replace H2 with PostgreSQL for production use
-- Containerize the application with Docker
-- Deploy the MCP server to a cloud environment
-
 ## 📌 Key Learning
 
 This project demonstrates how an existing Spring Boot backend can be exposed to an AI agent using the **Model Context Protocol (MCP)**.
