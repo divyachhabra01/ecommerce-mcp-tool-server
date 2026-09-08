@@ -8,11 +8,7 @@ An MCP-enabled backend for an e-commerce store, built with **Spring Boot**, **Sp
 
 ## 🎥 Demo
 
-<!-- After uploading the video via drag-and-drop in the GitHub README editor, paste the resulting
-     https://github.com/user-attachments/assets/... URL below on its own line.
-     GitHub will render it as an inline video player. -->
-
-*(demo video link goes here)*
+Watch demo here : https://github.com/user-attachments/assets/979a70f8-2f16-4129-950c-a73dd83d3832
 
 ---
 
